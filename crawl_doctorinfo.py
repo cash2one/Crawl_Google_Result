@@ -12,10 +12,10 @@ sys.setdefaultencoding('utf8')
 
 
 # database info
-username = 'root'
-password = '123456'
-host = 'localhost'
-dbase = 'doctorinfo'
+username = ''
+password = ''
+host = ''
+dbase = ''
 
 
 
